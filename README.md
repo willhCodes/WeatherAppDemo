@@ -4,7 +4,7 @@
 A demo app that fetches weather data and displays it on the UI using either geocode or city name
 ## Demo
 
-![GIF](giflink)
+![GIF](https://github.com/willhCodes/WeatherAppDemo/blob/main/sample.gif)
 ## Highlights
 
 ```
